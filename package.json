@@ -1,0 +1,23 @@
+{
+  "name": "graphql-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilmob/graphql-typescript.git"
+  },
+  "keywords": [
+    "graphql",
+    "typescript"
+  ],
+  "author": "Sahil H. Mobaidin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilmob/graphql-typescript/issues"
+  },
+  "homepage": "https://github.com/sahilmob/graphql-typescript#readme"
+}
